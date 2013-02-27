@@ -1,4 +1,3 @@
-learn-factor
-============
+# Learning Factor #
 
-Bits of code used in learning Factor
+Bits of code used in learning Factor, borrowed and otherwise modified.
